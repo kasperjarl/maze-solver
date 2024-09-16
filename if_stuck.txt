@@ -1,0 +1,7 @@
+Google is your friend!
+Do not be afraid to use the internet to find help with this project. 
+
+This is a semi-guided project, which means you will be expected to 
+figure some things out on your own, and look up some documentation as you need it. 
+
+This is good practice for what it's like to work in a real developer job.
